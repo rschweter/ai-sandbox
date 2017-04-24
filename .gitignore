@@ -1,0 +1,43 @@
+# =============== #
+# Unity generated #
+# =============== #
+Temp/
+Obj/
+UnityGenerated/
+Library/
+Builds/
+*cache5*
+
+# ===================================== #
+# Visual Studio / MonoDevelop generated #
+# ===================================== #
+ExportedObj/
+*.svd
+*.userprefs
+*.csproj
+*.pidb
+*.suo
+*.sln
+*.user
+*.unityproj
+*.booproj
+*.sublime-workspace
+
+# ============ #
+# OS generated #
+# ============ #
+.DS_Store
+*.DS_Store
+.DS_Store?
+._*i
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+Assets/Assembly-CSharp-Editor-firstpass.pidb.meta
+Assets/Assembly-CSharp-Editor.pidb.meta
+Assets/Assembly-CSharp-firstpass.pidb.meta
+Assets/Assembly-CSharp.pidb.meta
+Assets/Assembly-UnityScript-Editor.pidb.meta
+Assets/Assembly-UnityScript-firstpass.pidb.meta
+
